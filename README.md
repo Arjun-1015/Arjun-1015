@@ -1,3 +1,6 @@
+# 👋 Hi, I'm Arjun Singh
+
+### Full Stack Developer | AI Enthusiast | Cybersecurity Learner
 ```text
 █▀█ █▀█  ▀█▀ █ █ █▄ █
 █▀█ █▀▀█  █  █ █ █ ▀█
@@ -42,3 +45,18 @@ Contact..... your-email@example.com
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arjun-1015&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Arjun-1015&theme=tokyonight)
+
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+
+![](https://komarev.com/ghpvc/?username=Arjun-1015&color=blue&style=flat-square)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arjun+Singh;Full+Stack+Developer;AI+Enthusiast;Cybersecurity+Learner;Always+Building+Projects+🚀)](https://git.io/typing-svg)
