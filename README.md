@@ -1,16 +1,37 @@
-## Hi there 👋
+```
+[0;97;1;40m█▀█[0;37;40m [0;97;1;40m█▀█[0;37;40m  [0;97;1;40m▀█▀[0;37;40m [0;97;1;40m█ █[0;37;40m [0;97;1;40m█▄ █[0m
+[0;94;1;40m█▀█[0;37;40m [0;94;1;40m█▀▀█[0;37;40m [0;97;1;40m [0;94;1;40m█[0;37;40m  [0;94;1;40m█ █[0;37;40m [0;94;1;40m█ ▀█[0m
+[0;94;1;40m▀[0;97;1;40m [0;94;1;40m▀[0;37;40m [0;94;1;40m▀[0;97;1;40m  [0;94;1;40m▀[0;37;40m [0;94;1;40m▀▀[0;37;40m  [0;94;1;40m▀▀▀[0;37;40m [0;94;1;40m▀  ▀[0m
+[0;97;1;40m█▀▀[0;37;40m [0;97;1;40m▀█▀[0;37;40m [0;97;1;40m█▄ █[0;37;40m [0;97;1;40m█▀▀[0;37;40m  [0;97;1;40m█ █[0m
+[0;94;1;40m▀▀█[0;37;40m [0;97;1;40m [0;94;1;40m█[0;37;40m  [0;94;1;40m█ ▀█[0;37;40m [0;94;1;40m█ ▀█[0;37;40m [0;94;1;40m█▀█[0m
+[0;94;1;40m▀▀▀[0;37;40m [0;94;1;40m▀▀▀[0;37;40m [0;94;1;40m▀  ▀[0;37;40m [0;94;1;40m▀▀▀▀[0;37;40m [0;94;1;40m▀ ▀[0m
 
-<!--
-**Arjun-1015/Arjun-1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+────────────────────────────────────────────────────────────
 
-Here are some ideas to get you started:
+OS.......... Windows 11
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Kernel...... Computer Science Student
+
+Editor...... VS Code
+
+Languages... Python | JavaScript | HTML | CSS | SQL
+
+Learning.... React | Node.js | AI | Cyber Security
+
+Interests... Web Development | AI | UI/UX
+
+Uptime...... 21 years
+
+Location.... Bihar, India
+
+GitHub...... github.com/Arjun-1015
+
+Portfolio... portfolio-qm6x.onrender.com
+
+Status...... Building Projects 🚀
+
+Contact..... your-email@example.com
+
+────────────────────────────────────────────────────────────
+
+```
