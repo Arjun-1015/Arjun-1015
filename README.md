@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Booting+Developer+Profile...;Loading+Python...;Loading+React...;Initializing+AI+Modules...;Access+Granted+✔)](https://git.io/typing-svg)
 
-<p align="center">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700">
-</p>
-
 ```text
 ▀█▀▀▀▀▄     ▄▀▀▀▀▀▀▀▄
   ▀▀▄  █    ▀▀▀▀▀▀▀▀▀
