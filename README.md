@@ -31,7 +31,7 @@ Portfolio... portfolio-qm6x.onrender.com
 
 Status...... Building Projects 🚀
 
-Contact..... your-email@example.com
+Contact..... arjun_github@gmail.com
 
 ────────────────────────────────────────────────────────────
 ```
