@@ -1,11 +1,10 @@
 ```
-[0;97;1;40m█▀█[0;37;40m [0;97;1;40m█▀█[0;37;40m  [0;97;1;40m▀█▀[0;37;40m [0;97;1;40m█ █[0;37;40m [0;97;1;40m█▄ █[0m
-[0;94;1;40m█▀█[0;37;40m [0;94;1;40m█▀▀█[0;37;40m [0;97;1;40m [0;94;1;40m█[0;37;40m  [0;94;1;40m█ █[0;37;40m [0;94;1;40m█ ▀█[0m
-[0;94;1;40m▀[0;97;1;40m [0;94;1;40m▀[0;37;40m [0;94;1;40m▀[0;97;1;40m  [0;94;1;40m▀[0;37;40m [0;94;1;40m▀▀[0;37;40m  [0;94;1;40m▀▀▀[0;37;40m [0;94;1;40m▀  ▀[0m
-[0;97;1;40m█▀▀[0;37;40m [0;97;1;40m▀█▀[0;37;40m [0;97;1;40m█▄ █[0;37;40m [0;97;1;40m█▀▀[0;37;40m  [0;97;1;40m█ █[0m
-[0;94;1;40m▀▀█[0;37;40m [0;97;1;40m [0;94;1;40m█[0;37;40m  [0;94;1;40m█ ▀█[0;37;40m [0;94;1;40m█ ▀█[0;37;40m [0;94;1;40m█▀█[0m
-[0;94;1;40m▀▀▀[0;37;40m [0;94;1;40m▀▀▀[0;37;40m [0;94;1;40m▀  ▀[0;37;40m [0;94;1;40m▀▀▀▀[0;37;40m [0;94;1;40m▀ ▀[0m
-
+█▀█ █▀█  ▀█▀ █ █ █▄ █
+█▀█ █▀▀█  █  █ █ █ ▀█
+▀ ▀ ▀  ▀ ▀▀  ▀▀▀ ▀  ▀
+█▀▀ ▀█▀ █▄ █ █▀▀  █ █
+▀▀█  █  █ ▀█ █ ▀█ █▀█
+▀▀▀ ▀▀▀ ▀  ▀ ▀▀▀▀ ▀ ▀
 ────────────────────────────────────────────────────────────
 
 OS.......... Windows 11
@@ -34,4 +33,25 @@ Contact..... your-email@example.com
 
 ────────────────────────────────────────────────────────────
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjun-1015&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-1015&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Arjun-1015&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=Arjun-1015&color=blue)
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ```
